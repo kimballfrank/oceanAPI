@@ -13,3 +13,6 @@ oceanAPI.droplets.get(function(results, error){
 });
 ```
 
+## Warning!
+this module is not finished and doesn't yet include full api coverage.
+
